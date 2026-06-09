@@ -26,9 +26,10 @@ Built with a **beautiful Rich CLI interface** to make chatting fun and interacti
 ```
 aisha-offline-assistant/
 |
-│── aisha_bot.py        # Main chatbot file
-│── requirements.txt    # Python dependencies
-│── README.md           # Project documentation
+├── assets/              # Screenshots
+│── nain.py              # Main chatbot file
+│── requirements.txt     # Python dependencies
+│── README.md            # Project documentation
 └── LICENSE
 ```
 
@@ -54,7 +55,7 @@ pip install rich
 
 ### 3️⃣ Run the Assistant
 ```bash
-python aisha_bot.py
+python main.py
 ```
 
 ---
