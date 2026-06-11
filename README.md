@@ -98,6 +98,12 @@ Fully private 💻🔒
 
 ---
 
+## 📸 Preview
+
+![Aisha_Assistant_Preview](assets/screenshot.png)
+
+---
+
 ## 🚀 Future Enhancements
 
 - 🧠 Persistent memory (JSON storage)
