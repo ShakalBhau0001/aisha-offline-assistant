@@ -100,7 +100,7 @@ Fully private 💻🔒
 
 ## 📸 Preview
 
-![Aisha_Assistant_Preview](assets/screenshot.png)
+![Aisha_Assistant_Preview](assets/Aisha_Offline.png)
 
 ---
 
